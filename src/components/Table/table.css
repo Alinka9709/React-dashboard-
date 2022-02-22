@@ -1,0 +1,116 @@
+.post {
+  width: 1000px;
+  display: flex;
+  padding: 0px;
+  margin: 0;
+  border: 2px solid #FFFFFF;
+  margin-top: 5px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  justify-content: space-around;
+  border-left: #E14165 solid 10px;
+
+}
+
+.postItem__name {
+  width: 150px;
+  padding: 10px;
+  background: #FFFFFF;
+  color: #474747;
+  display: flex;
+  align-items: center;
+}
+
+.postItem__type {
+  width: 150px;
+  background: #FFFFFF;
+  color: #5C5C5C;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 70px 0 0;
+}
+
+.postItem__status {
+  background: #FFFFFF;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  color: #1BDA9D;
+  margin: 0 30px 0 0;
+
+}
+
+.postItem___siteID {
+  padding: 10px;
+  background: #FFFFFF;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  color: #5C5C5C;
+  margin: 0 135px 0 0;
+}
+
+.post__header {
+  width: 757px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 0 0 10px;
+}
+
+.post__headerDiv {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  cursor: pointer;
+  font-family: "TT Firs Neue Medium", serif;
+  color: #999999;
+  padding: 0 10px 0 0;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  background: #FFFFFF;
+}
+
+.btn {
+  width: 95px;
+  height: 30px;
+  left: 895px;
+  top: 316px;
+
+  background: #E14165;
+  border: 1px solid #E14165;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.btn-res {
+  background: #E14165;
+  color: #FFFFFF;
+
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 15px;
+
+}
+
+.btn-liz {
+  background: #E14165;
+  color: #FF8346;
+
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 15px;
+}
